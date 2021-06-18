@@ -3,7 +3,7 @@ My Portfolio
 ## Hey 👋, I'm Hadiyan Pratama
 ## <img src="https://i.ibb.co/71cQZh5/IMG-20200521-WA0133.jpg" width="300" height="300">
 [![Gmail Badge](https://img.shields.io/badge/-dhpriv8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:dhpriv8@gmail.com)](mailto:dhpriv8@gmail.com) [![Github Badge](https://img.shields.io/badge/-beruangsalju-black?style=flat&logo=github&logoColor=red&link=https://github.com/beruangsalju/)](https://www.github.com/beruangsalju/)
-<p align='left'>My Skills : Programmer - Defacer - Ctf Player | Since 2016</p>
+<p align='left'>Programmer - Defacer - Ctf Player - Pentester </p>
 
 
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
