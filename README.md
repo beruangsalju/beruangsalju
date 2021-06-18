@@ -13,7 +13,7 @@ My Portfolio
 ![Python](https://img.shields.io/badge/-Python-282A36?style=flat&logo=Python)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell-282A36?style=flat&logo=Shell)&nbsp;
 
-![Bypass](https://img.shields.io/badge/-Bypass-282A36?style=flat&logo=Bypass)&nbsp;
+s
 ![Ojs](https://img.shields.io/badge/-Ojs-282A36?style=flat&logo=Ojs)&nbsp;
 ![Timbthumb](https://img.shields.io/badge/-Timthumb-282A36?style=flat&logo=Timthumb)&nbsp;
 ![Jfu](https://img.shields.io/badge/-Jfu-282A36?style=flat&logo=Jfu)&nbsp;
