@@ -3,33 +3,7 @@ My Portfolio
 ## Hey 👋, I'm Hadiyan Pratama
 ## <img src="https://i.ibb.co/71cQZh5/IMG-20200521-WA0133.jpg" width="300" height="300">
 [![Gmail Badge](https://img.shields.io/badge/-dhpriv8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:dhpriv8@gmail.com)](mailto:dhpriv8@gmail.com) [![Github Badge](https://img.shields.io/badge/-beruangsalju-black?style=flat&logo=github&logoColor=red&link=https://github.com/beruangsalju/)](https://www.github.com/beruangsalju/)
-<p align='left'>Programmer - Defacer - Ctf Player - Pentester </p>
-
-
-![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=Javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
-![Python](https://img.shields.io/badge/-Python-282A36?style=flat&logo=Python)&nbsp;
-![Bash](https://img.shields.io/badge/-Shell-282A36?style=flat&logo=Shell)&nbsp;
-
-s
-![Ojs](https://img.shields.io/badge/-Ojs-282A36?style=flat&logo=Ojs)&nbsp;
-![Timbthumb](https://img.shields.io/badge/-Timthumb-282A36?style=flat&logo=Timthumb)&nbsp;
-![Jfu](https://img.shields.io/badge/-Jfu-282A36?style=flat&logo=Jfu)&nbsp;
-![Jso](https://img.shields.io/badge/-Jso-282A36?style=flat&logo=Jso)&nbsp;
-![Fckeditor](https://img.shields.io/badge/-Fckeditor-282A36?style=flat&logo=Fckeditor)&nbsp;
-![Cryptography](https://img.shields.io/badge/-Cryptography-282A36?style=flat&logo=Cryptograhpy)&nbsp;
-![Steganography](https://img.shields.io/badge/-Steganography-282A36?style=flat&logo=Steganography)&nbsp;
-![OSINT](https://img.shields.io/badge/-OSINT-282A36?style=flat&logo=OSINT)&nbsp;
-![Forensic](https://img.shields.io/badge/-Forensic-282A36?style=flat&logo=Forensic)&nbsp;
-![Web](https://img.shields.io/badge/-Web-282A36?style=flat&logo=Web)&nbsp;
-![Pwn](https://img.shields.io/badge/-Pwn-282A36?style=flat&logo=Pwn)&nbsp;
-
-
-
-
-
+<p align='left'>&#9829; Programmer - Defacer - Ctf Player - Pentester &#9829;</p>
 
 
 
