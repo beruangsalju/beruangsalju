@@ -2,6 +2,7 @@
 My Portfolio
 ## Hey 👋, I'm Hadiyan Pratama
 <p align=left> <img src=https://komarev.com/ghpvc/?username=beruangsalju alt=beruangsalju /> </p>
+
 ## <img src="https://i.ibb.co/71cQZh5/IMG-20200521-WA0133.jpg" width="300" height="300">
 [![Gmail Badge](https://img.shields.io/badge/-dhpriv8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:dhpriv8@gmail.com)](mailto:dhpriv8@gmail.com) [![Github Badge](https://img.shields.io/badge/-beruangsalju-black?style=flat&logo=github&logoColor=red&link=https://github.com/beruangsalju/)](https://www.github.com/beruangsalju/)
 <p align='left'>&#9829; Programmer - Defacer - Ctf Player - Pentester &#9829;</p>
